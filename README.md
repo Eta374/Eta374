@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bonjour 👋. Je suis Eta
+
+je suis a la recherche d'un stage d'un mois (Novembre) au alentour de Saint Nazaire dans le cadre de ma formation de développeur web !
+
+##### à propos de moi
+je suis un développeur Full Stack Français en formation chez @Arinfo . 
+J'ai découvert le codage par mon frère et ça m'a tout de suite toucher !   
+C'est une satisfaction personnel de faire en sorte que tout fonctionne,
+de découvrir constament de nouvelle chose ! 
 
 <!--
 **Eta374/Eta374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
