@@ -1,4 +1,4 @@
-# Bonjour 👋. Je suis Eta
+# Bonjour <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="70" height="70" /> Je suis Eta
 
 <p width="100" align="center">J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible !  
 Si vous avez trouvé de la valeur dans quelque chose que j'ai crée, nhésitez pas à me contacter par mail ou via mon linkedIn !
