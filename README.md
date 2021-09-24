@@ -1,7 +1,7 @@
-# Bonjour <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="70" height="70" /> Je suis Eta
+# Bonjour <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="70" height="70" /> Je suis Elouan Menard
 
 <p width="100" align="center">J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible !  
-Si vous avez trouvé de la valeur dans quelque chose que j'ai crée, nhésitez pas à me contacter par mail ou via mon linkedIn !
+Si vous avez trouvé de la valeur dans quelque chose que j'ai crée, nhésitez pas à me contacter par mail ou via mon linkedIn 💬 !
 </p>
 <img width="400" height="400" align="right" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg"></img>
 <p>
@@ -20,13 +20,17 @@ de découvrir constament de nouvelle chose !
 </p>
 
 <strong>Ce que j'apprends/travaille ces jours-ci :</strong></br>
-* PHP <br/>
-* Symfony <br/>
-* Javascripts <br/>
-* HTML / CSS <br/>
+
+* Symfony
+* HTML/CSS
+* Saas
+* Boostrap
+* JavaScript / JQuery
+* Ajax / PHP / MySQL
+* Wordpress
 
 
-
+<img src="https://c.tenor.com/DjFgsyrrHFAAAAAC/code.gif" width="970" height="250" />
 <!--
 **Eta374/Eta374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
